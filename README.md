@@ -11,9 +11,9 @@ Your mission is help him to extract the very best from his previous exercises hi
 ## Team:
 
 * Débora Azevedo ( deboraazevedoo@gmail.com )
-* Eliseu Jayro ( larissagilliane@hotmail.com )
+* Eliseu Jayro
 * Igor Brandão ( igorabrandao@gmail.com )
-* Francisco de Paiva ( michelkatsilis@gmail.com )
+* Francisco de Paiva
 
 
 ## The dataset:
